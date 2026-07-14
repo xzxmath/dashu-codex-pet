@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run",
+  "spritesheet": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/final/spritesheet-extended.webp",
+  "validation": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/final/validation-extended.json",
+  "chroma_despill": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/look-directions.png",
+  "direction_semantics": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/blind-review-resolution.json",
+  "continuity": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/look-continuity.json",
+  "review": "/Users/xiaozunxuan/Documents/Codex/2026-07-13/hatch-pet-users-xiaozunxuan-codex-skills/work/dashu-run/qa/review.json",
+  "package": "/Users/xiaozunxuan/.codex/pets/dashu",
+  "sharpened": true,
+  "sharpening_note": "Installed sharper lossless WebP derived from validated v2 atlas; dimensions and animation contract unchanged.",
+  "boundary_clean": true,
+  "boundary_clean_note": "Installed boundary-clean lossless WebP: dark outline pixels snapped to black, pink/white/gray regions kept in their own color ranges, dimensions and animation contract unchanged."
+}

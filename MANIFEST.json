@@ -1,0 +1,22 @@
+{
+  "id": "dashu",
+  "name": "Dashu",
+  "description": "大鼠 Codex pet, boundary-clean v2 package.",
+  "pet": "pet/pet.json",
+  "spritesheet": "pet/spritesheet.webp",
+  "spriteVersionNumber": 2,
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208
+  },
+  "qa": {
+    "validation": "qa/validation.json",
+    "runSummary": "qa/run-summary.json",
+    "contactSheet": "assets/contact-sheet.png",
+    "lookDirections": "assets/look-directions.png"
+  }
+}
